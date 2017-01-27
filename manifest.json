@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Orange theme",
+  "short_name": "Orange theme",
+  "version": "0.0.1",
+  "description": "An orange Chrome browser theme",
+  "icons": {
+    "16": "images/orange_16.png",
+    "48": "images/orange_48.png",
+    "128": "images/orange_128.png"
+  },
+  "theme": {
+    "images": {
+       "theme_frame": "images/theme_frame.png",
+       "theme_tab_background": "images/theme_tab_background.png",
+       "theme_tab_background_incognito": "images/theme_tab_background.png",
+       "theme_toolbar": "images/theme_toolbar.png"
+    },
+    "colors": {
+      "frame": [255, 153, 0],
+      "button_background": [208, 208, 208]
+    }
+  }
+}

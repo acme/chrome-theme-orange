@@ -1,0 +1,22 @@
+{
+  "name": "chrome-theme-orange",
+  "version": "1.0.0",
+  "description": "An orange Chrome browser theme.",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "zip": "zip orange.zip images/*.png manifest.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acme/chrome-theme-orange.git"
+  },
+  "author": "acme@astray.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/acme/chrome-theme-orange/issues"
+  },
+  "homepage": "https://github.com/acme/chrome-theme-orange#readme"
+}
