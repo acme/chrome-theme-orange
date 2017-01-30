@@ -6,6 +6,10 @@ An orange Chrome browser theme.
 
 # Installation
 
+To install, please visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/orange-theme/pjdkeahiimeilmedomblcaemnomidgog).
+
+# Development
+
 Run:
 
 ```
@@ -17,7 +21,5 @@ To use, visit chrome://extensions/ in your Chrome browser. Select
 chrome-theme-orange directory. You're all good to go!
 
 # Future
-
-I should add this to the Chrome web store.
 
 Is this useful? Let me know! Léon Brocard <<acme@astray.com>>
